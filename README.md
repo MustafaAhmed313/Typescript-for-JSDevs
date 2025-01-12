@@ -1,4 +1,4 @@
-> ##### Index
+> #### Index
 
 - [What is Typescript :](#what-is-typescript-)
 - [How to install TypeScript :](#how-to-install-typescript-)
